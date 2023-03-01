@@ -1,0 +1,11 @@
+<About_Me>
+   <Name>Alexey</Name> 
+   <Last_name>Morozov</Last_name>  
+   <Age>22</Age>  
+   <Pets>
+	<Type_of_pet>Cat</Type_of_pet>
+	<Name>Diego<Name>   
+   	<Age>1</Age>    
+   </Pets>  
+   <Future_salary>1000$</Future_salary>  
+</About_Me>  
