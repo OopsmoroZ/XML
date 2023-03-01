@@ -1,1 +1,11 @@
-
+<#>Bug-report number</#>
+<Title>Bug-report title</Title>
+<STR>
+  <Step_1>step description</step_1>
+  <Step_2>step description</step_2>
+  <Step_3>step description</step_3>                          
+<Actual Result>Description of actual result</Actual Result>
+<Expected Result>Description of expected result</Expected Result>
+<Environment details>Description of environment</Environment details>
+<Attachments>Attached files</Attachments>
+<Author>The author of the error message</Author>
